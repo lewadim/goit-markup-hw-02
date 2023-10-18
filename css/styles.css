@@ -142,7 +142,6 @@ body {
 .team-list-text {
   text-align: center;
   font-size: 16px;
-
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -154,9 +153,6 @@ body {
 .portfolio {
   background-color: #ffffff;
 }
-.portfolio-list-item {
-  background-color: #ffffff;
-}
 .portfolio-section {
   font-size: 36px;
   font-weight: 700;
@@ -164,25 +160,20 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
-  background-color: #ffffff;
 }
 .portfolio-list-title {
   font-size: 20px;
-
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  background-color: #ffffff;
 }
 .portfolio-list-species {
   font-size: 16px;
-
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  background-color: #ffffff;
 }
 /* ============== PORTFOLIO STYLES ============== */
 
@@ -190,7 +181,6 @@ body {
 .page-footer {
   background-color: #2e2f42;
 }
-
 .logotype-spam-footer {
   color: #f4f4fd;
 }
