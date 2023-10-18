@@ -42,16 +42,6 @@ body {
   color: #404bbf;
 }
 
-.contact-list-link:hover,
-.contact-list-li:focus {
-  color: #404bbf;
-}
-
-.order-service-btn:hover,
-.order-service-btn:focus {
-  background-color: #404bbf;
-}
-
 .menu-link {
   font-size: 16px;
   font-weight: 500;
@@ -60,14 +50,21 @@ body {
   color: #2e2f42;
 }
 
+.contact-list-link:hover,
+.contact-list-link:focus {
+  color: #404bbf;
+}
+.contact-title {
+  font-style: normal;
+}
 .contact-list-link {
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 /* ============== HEADER STYLES ============== */
 
 /* ============== SERVICE ORDER PAGE STYLES ============== */
@@ -82,6 +79,11 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+  background-color: #404bbf;
+}
 .order-service-btn {
   text-align: center;
   font-size: 16px;
@@ -89,7 +91,6 @@ body {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.04em;
   color: #ffffff;
-  border-radius: 4px;
   background-color: #4d5ae5;
 }
 /* ============== SERVICE ORDER PAGE STYLES ============== */
@@ -145,7 +146,7 @@ body {
 
 /* ============== PORTFOLIO STYLES ============== */
 
-.section-portfolio {
+.portfolio-section {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -153,6 +154,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .portfolio-list-title {
   font-size: 20px;
