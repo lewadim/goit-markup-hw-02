@@ -105,6 +105,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .company-description-list-text {
   font-size: 16px;
@@ -112,6 +113,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #ffffff;
 }
 /* ============== СOMPANY DESCRIPTION STYLES ============== */
 
