@@ -136,7 +136,7 @@ body {
 .team-list-text {
   text-align: center;
   font-size: 16px;
-  font-style: normal;
+
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -159,7 +159,7 @@ body {
 }
 .portfolio-list-title {
   font-size: 20px;
-  font-style: normal;
+
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -168,11 +168,12 @@ body {
 }
 .portfolio-list-species {
   font-size: 16px;
-  font-style: normal;
+
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #ffffff;
 }
 /* ============== PORTFOLIO STYLES ============== */
 
@@ -186,7 +187,7 @@ body {
 }
 .footer-text {
   font-size: 16px;
-  font-style: normal;
+
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
