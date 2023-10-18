@@ -72,7 +72,6 @@ body {
   background-color: #2e2f42;
 }
 .service-order-page-title {
-  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -85,7 +84,6 @@ body {
   background-color: #404bbf;
 }
 .order-service-btn {
-  text-align: center;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -122,7 +120,6 @@ body {
   background-color: #f4f4fd;
 }
 .team {
-  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -131,7 +128,6 @@ body {
   text-transform: capitalize;
 }
 .team-list-title {
-  text-align: center;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -140,7 +136,6 @@ body {
   background-color: #ffffff;
 }
 .team-list-text {
-  text-align: center;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
