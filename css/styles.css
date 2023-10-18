@@ -151,6 +151,9 @@ body {
 .portfolio {
   background-color: #ffffff;
 }
+.portfolio-list-item {
+  background-color: #ffffff;
+}
 .portfolio-section {
   font-size: 36px;
   font-weight: 700;
