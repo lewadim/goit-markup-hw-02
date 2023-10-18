@@ -123,6 +123,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list-title {
   text-align: center;
@@ -153,6 +154,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-list-title {
   font-size: 20px;
@@ -161,6 +163,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .portfolio-list-species {
   font-size: 16px;
